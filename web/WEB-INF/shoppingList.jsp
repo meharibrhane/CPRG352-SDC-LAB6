@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Shopping List</h1>
-        <p>Hello, ${username} <a href="shoppingList?action=logout">Logout</a></p>
+        <p>Hello, ${username} <a href="ShoppingList?action=logout">Log Out</a></p>
         
         <h1>List</h1>
         <form action="" method="POST">
